@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&family=Shantell+Sans:ital,wght@1,300&display=swap');
+
+html body{
+
+    height: 100%;
+    width:100%;
+    font-family: 'Mynerve', cursive;
+    font-family: 'Shantell Sans', cursive;
+
+}
+.button{
+   
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 60px;
+    cursor: pointer;    
+    
+
+}
+.button:hover{
+    background-color:rgb(17, 116, 125);
+    color: aliceblue;
+}
+
+.row{
+    margin: 8px 0;   
+}
+.row input{
+    padding: 15px 39px;
+    font-size:medium;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url("accountant-pattern.gif");
+
+   }
